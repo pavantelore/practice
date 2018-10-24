@@ -2,15 +2,4 @@
 This document is only for practice purpose
 =======================================================
 
-Initial State
-
-Second state with some text
-
-<<<<<<< HEAD
-dev mode 
-=======
-It will show in developer branch
->>>>>>> 2516334c8cf5f8381d3eccb1880402dab2bdd28b
-
-
-i want to push this doc
+new branch started
